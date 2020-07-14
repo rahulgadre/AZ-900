@@ -1,5 +1,5 @@
 
-# Cloud 101 ☁️
+## Cloud 101 ☁️
 
 ### Cloud basics:
 - CapEx - Money spent to buy HW for your datacenter.
