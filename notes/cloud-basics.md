@@ -1,7 +1,7 @@
 
 # Cloud 101 ☁️
 
-## Cloud basics:
+### Cloud basics:
 - CapEx - Money spent to buy HW for your datacenter.
 - OpEx - Money spent to manage/maintain that HW.
 ### What does Cloud provide?
