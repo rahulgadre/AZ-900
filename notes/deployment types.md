@@ -6,4 +6,4 @@
 
 - SaaS - Everything is managed by a cloud provider. You just use the app. E.g - Office365, Skype.
 
- ![](./assets/cloud-types.png)
+- ![Cloud Types](./assets/cloud-types.png)
